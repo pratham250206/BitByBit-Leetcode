@@ -8,3 +8,4 @@ Name:Yash Shrivastava
 Semester:3rd
 USN:1BF24AI194
 College Email:yashshrivastava.ai24@bmsce.ac.in
+Leetcode profile:https://leetcode.com/u/pratham_2502/
